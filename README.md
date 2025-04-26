@@ -9,19 +9,49 @@
 
 ### 🚀 About Me
 - 🔭 Currently working @ **Titan Company Limited**
-- 🌱 Currently learning **Advanced Cloud Data Pipelines**
-- 🎯 Passionate about **Data Engineering, Analytics & Sports**
+- 🎯 Passionate about **Data Science, Data Engineering, Analytics & Sports**
 
 
 ---
-
 ### 🛠️ Languages and Tools:
+
+#### 📊 Data Analytics & Modeling:
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/00FFFF/sql.png" alt="sql" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/git.png" alt="git" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/00FFFF/github.png" alt="github" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+</p>
+
+#### ☁️ Cloud & Database Technologies:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-redshift.png" alt="Redshift" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-rds.png" alt="RDS" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codepipeline-a-continuous-delivery-service-for-fast-and-reliable-application-updates-logo-color-tal-revivo.png" alt="CodePipeline" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/code.png" alt="CodeCommit" width="40" height="40"/>
+</p>
+
+#### 🔄 Data Pipelines & Automation:
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/000000/etl.png" alt="ETL" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="Github" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python Automation" width="40" height="40"/>
+</p>
+
+#### 📈 Business Intelligence & Visualization:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce CDP" width="40" height="40"/>
+</p>
+
+#### 🤖 Innovative Technologies:
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="Generative AI" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/000000/external-llm-artificial-intelligence-flat-icons-inmotus-design.png" alt="LLM" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/langchain.png" alt="LangChain" width="40" height="40"/>
 </p>
 
 ---
