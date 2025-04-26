@@ -7,52 +7,43 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 🔭 Currently working @ **Titan Company Limited**
 - 🎯 Passionate about **Data Science, Data Engineering, Analytics & Sports**
 
 
 ---
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 
 #### 📊 Data Analytics & Modeling:
-<p align="left">
-  <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-</p>
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 #### ☁️ Cloud & Database Technologies:
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-redshift.png" alt="Redshift" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-rds.png" alt="RDS" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codepipeline-a-continuous-delivery-service-for-fast-and-reliable-application-updates-logo-color-tal-revivo.png" alt="CodePipeline" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/code.png" alt="CodeCommit" width="40" height="40"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redshift](https://img.shields.io/badge/Amazon%20Redshift-4053D6?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-4B612C?style=for-the-badge&logo=aws-codepipeline&logoColor=white)
+![CodeCommit](https://img.shields.io/badge/AWS%20CodeCommit-6A6A6A?style=for-the-badge&logo=aws-codecommit&logoColor=white)
 
 #### 🔄 Data Pipelines & Automation:
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/etl.png" alt="ETL" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="Github" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python Automation" width="40" height="40"/>
-</p>
+![ETL](https://img.shields.io/badge/ETL%20Processes-5B2C6F?style=for-the-badge&logo=data&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python Automation](https://img.shields.io/badge/Python%20Automation-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 #### 📈 Business Intelligence & Visualization:
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce CDP" width="40" height="40"/>
-</p>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Salesforce CDP](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 #### 🤖 Innovative Technologies:
-<p align="left">
-  <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="Generative AI" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/000000/external-llm-artificial-intelligence-flat-icons-inmotus-design.png" alt="LLM" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/langchain.png" alt="LangChain" width="40" height="40"/>
-</p>
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-0A66C2?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-05A081?style=for-the-badge&logo=Chainlink&logoColor=white)
+
 
 ---
 
